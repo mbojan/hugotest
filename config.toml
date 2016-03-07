@@ -1,3 +1,6 @@
 baseurl = "http://replace-this-with-your-hugo-site.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Bojanorama"
+
+[params]
+description = "Ramblings on social science, social networks, statistics, game theory and alike"
